@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 2 - Media dei voti e giudizio
 Scrivere nella cella dell'esercizio 2 il programma che legge in ingresso il nome di uno studente, tre voti in virgola mobile e le ore di assenza, calcola la media dei tre voti e stampa il giudizio
 secondo questa regola: se le ore di assenza superano 50 il giudizio è non valutabile , indipendentemente dalla media; altrimenti il giudizio è ottimo da 8 in su, sufficiente da 6 in su, insufficiente sotto il 6. La media va stampata con due decimali dentro una f-string, insieme al nome dello studente.

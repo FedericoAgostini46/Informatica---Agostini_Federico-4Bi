@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 6 - Riparazione di un programma difettoso
 Il programma seguente dovrebbe leggere la durata di una lezione in minuti e stampare il nome del docente, la durata espressa in ore intere e minuti, e i minuti che restano al netto di una pausa di dieci. Contiene quattro difetti: uno impedisce l'avvio del programma, uno lo interrompe alla prima operazione aritmetica, uno lo interrompe più avanti e uno produce un risultato sbagliato senza alcun messaggio.
 Copiare il programma nella cella dell'esercizio 6 e ripararlo, procedendo un difetto alla volta e rieseguendo dopo ogni correzione. Sopra il codice corretto vanno scritte quattro righe di commento, una per difetto, ciascuna nella forma «riga n: messaggio dell'interprete oppure sintomo osservato, causa, correzione». Il difetto silenzioso va descritto indicando che cosa si vede nell'uscita, dato che non produce alcun messaggio.

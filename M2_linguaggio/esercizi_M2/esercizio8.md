@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 8 - Conversione fra decimale e binario nei due sensi
 Scrivere nella cella dell'esercizio 8 il programma che legge in ingresso un intero non negativo, ne costruisce la rappresentazione binaria come stringa con il metodo dei resti successivi, e la confronta con il risultato della funzione predefinita bin , stampando verifica superata oppure verifica fallita . Il programma legge poi una seconda stringa composta di soli zeri e uni e ne calcola il valore decimale scorrendone i caratteri da sinistra a destra, senza usare la conversione predefinita. Se la seconda stringa contiene caratteri diversi da 0 e 1 , il programma lo segnala e non calcola nulla.
 

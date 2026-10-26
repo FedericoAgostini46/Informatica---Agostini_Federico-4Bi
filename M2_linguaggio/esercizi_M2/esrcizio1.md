@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 1 - Durata di una sessione di laboratorio
 Scrivere nella cella dell'esercizio 1 il programma che legge in   ingresso la durata di una sessione di laboratorio espressa in secondi e la stampa nel formato ore, minuti e secondi, usando soltanto la divisione intera e il resto. Il programma stampa anche la stessa durata espressa in ore decimali con due cifre dopo la virgola, e segnala con un messaggio il caso in cui la durata superi le quattro ore.
 

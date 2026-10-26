@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 11 - Palindroma con i due indici
 Scrivere nella cella dell'esercizio 11 il programma che legge in ingresso una frase, ne costruisce la versione normalizzata tenendo soltanto le lettere e portandole in minuscolo, e verifica se è palindroma con il confronto fra due indici che si avvicinano dagli estremi verso il centro, interrompendo il ciclo al primo carattere diverso. Lo slicing con passo negativo va usato solo alla fine, per stampare una riga di controllo che confronta il risultato ottenuto con quello dato dal confronto ripulita >= ripulita[>:-1] . Il programma stampa anche quanti confronti sono stati eseguiti prima di decidere.
 

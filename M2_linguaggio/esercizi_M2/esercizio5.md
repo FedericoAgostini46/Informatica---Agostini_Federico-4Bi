@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 5 - Conteggio dei caratteri di una frase
 Scrivere nella cella dell'esercizio 5 il programma che legge in ingresso una frase e conta, con un unico ciclo for sui caratteri, quante vocali, quante consonanti, quante cifre e quanti altri
 caratteri contiene. Il programma stampa i quattro conteggi e la percentuale di vocali sul totale dei caratteri, con un decimale. Le lettere accentate vanno considerate consonanti: è una semplificazione voluta, da dichiarare in un commento.

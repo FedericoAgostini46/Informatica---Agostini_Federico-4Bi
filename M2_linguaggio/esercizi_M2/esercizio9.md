@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 9 - Ricerca sequenziale in un elenco di codici
 L'elenco delle aule assegnate alle classi è memorizzato in una sola stringa, con le voci separate dal punto e virgola: è la forma con cui in Python si lavora finché non si conoscono le liste, e corrisponde all'array di stringhe usato in Java. Scrivere nella cella dell'esercizio 9 il programma che, a partire dalla stringa
 "A101;B204;C307;D410;E512" , legge in ingresso un codice e ne cerca la presenza con una scansione voce per voce: il programma estrae le voci una alla volta con find e slicing e le confronta con il codice cercato, interrompendo la scansione appena lo trova. Va stampata la

@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 13 - Traduzione di un metodo Java in Python
 Il metodo seguente è stato scritto in Java al terzo anno. Riceve una stringa di voti espressi con una sola cifra, ignora i caratteri che non sono cifre, e restituisce la percentuale di voti sufficienti sul totale dei voti validi.
 `````java

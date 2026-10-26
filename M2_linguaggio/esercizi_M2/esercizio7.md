@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 7 - Analisi delle cifre di un numero
 Scrivere nella cella dell'esercizio 7 il programma che legge in ingresso un intero non negativo e ne calcola, con un ciclo while che usa soltanto il resto e la divisione intera per dieci, la somma delle cifre, il numero di cifre e la cifra maggiore. Il numero zero va gestito correttamente: ha una cifra, la somma è zero e la cifra maggiore è zero. Non è ammesso trasformare il numero in stringa.
 

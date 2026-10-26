@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 3 - Tavola di conversione incolonnata
 Scrivere nella cella dell'esercizio 3 il programma che legge in ingresso un valore iniziale, un valore finale e un passo, tutti interi, e stampa la tavola di conversione da chilometri a miglia e a
 metri per tutti i valori dell'intervallo, estremi compresi. Un chilometro corrisponde a 0,621371 miglia. La tabella ha un'intestazione e una riga di trattini, le colonne sono allineate a destra e i

@@ -1,6 +1,7 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 12 - Occorrenze di una sottostringa senza il metodo count
 Scrivere nella cella dell'esercizio 12 il programma che legge in ingresso un testo e una sottostringa da cercare, e conta quante volte la sottostringa compare nel testo usando find ripetutamente dentro un ciclo, senza chiamare count. Il programma stampa il numero di occorrenze e la posizione di ciascuna, contando da zero. Alla fine stampa la stessa cosa calcolata con count , come verifica del proprio risultato, e stampa il testo con tutte le occorrenze sostituite da un asterisco per ciascun carattere della sottostringa, ottenuto ricostruendo la stringa con lo slicing e la concatenazione, senza replace.
+
 Attenzione al caso in cui la sottostringa cercata sia vuota: il programma deve rifiutarla con un messaggio prima di iniziare la ricerca.
 
 `````java

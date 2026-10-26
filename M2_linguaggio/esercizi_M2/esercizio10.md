@@ -1,6 +1,7 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 10 - Statistiche di una sequenza letta con sentinella
 Scrivere nella cella dell'esercizio 10 il programma che legge in ingresso una sequenza di voti in virgola mobile, uno per riga, e termina quando l'utente digita 0 . Il programma calcola e stampa il numero di voti inseriti, il massimo, il minimo, la media con due decimali e quanti voti sono risultati sufficienti, cioè maggiori o uguali a 6. I voti fuori dall'intervallo da 1 a 10 vanno segnalati e ignorati senza interrompere la lettura. Se non viene inserito alcun voto valido il programma lo dichiara e non calcola le statistiche.
+
 Massimo e minimo vanno inizializzati con il primo valore valido letto, non con una costante scelta a priori: è la stessa scelta corretta già adottata in Java.
 
 `````java

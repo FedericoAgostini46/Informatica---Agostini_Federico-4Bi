@@ -1,4 +1,4 @@
-# MODULO M1 - ESERCIZI
+# MODULO M2 - ESERCIZI
 ## Esercizio 4 - Lettura di un codice di postazione
 Scrivere nella cella dell'esercizio 4 il programma che legge in ingresso un codice di postazione di laboratorio nel formato LAB2-PC17-2026 , dove le prime quattro posizioni indicano il labora‐
 torio, le quattro successive al trattino indicano il calcolatore e le ultime quattro l'anno di installazione. Il programma ripulisce l'ingresso dagli spazi agli estremi, lo porta in maiuscolo ed
